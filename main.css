@@ -1,0 +1,10 @@
+#value-container {
+  height: 1000px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+.value-column {
+  background-color: green;
+}
